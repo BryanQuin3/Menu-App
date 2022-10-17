@@ -1,7 +1,7 @@
 const SHEET_ID = "1vGH388JngIsEFa2qCaCuc68uJB7POOiHvz4pdkdBYGo";
 
 const ACCESS_TOKEN =
-  "ya29.a0Aa4xrXNB2JYRNQBDC3gBwiDM5olMBNWFcfWALlH5LUr6tel3Axhrnhz84IAw3rhizFf9TWpqv8JF1276sFOayTVdI9ECOExSfXkDuD2FaEdl_X8UjIbleCCJCuSIoqI647uHLnP7S4OzrFliOmzKSG7IbiQ0aCgYKATASARMSFQEjDvL9mnafc96E9Ytc0yPiwEEUjw0163";
+  "ya29.a0Aa4xrXOyJkJbt157Z39C_8D2dkQzXHBvdGuciV9i1kVxO5diCwqIJzsIkkLVhvbS2nDOEd6PifqORr-XgHEiU6OISnNfRnokpcBFBfBlZ6pmd0DgNAJJGPNwYPdawaV3et75lbnoR7fZNDokvTnaLy_cycxxaCgYKATASARISFQEjDvL9mO_nWMLIied3quUZcJ6LSA0163";
 
 fetch(
   // Obtenemos los datos de la planilla, de la hoja hojaMenu, columnas A y B desde la segunda fila
